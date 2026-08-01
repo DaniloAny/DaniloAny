@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="assets/ellen-moe.gif" alt="ellen moe" width="200px"/>
+<img src="assets/ellen-moe.gif" alt="ellen moe" width="200px" align="right"/>
 
 <br>
 - I'm a beginner/intermidiate developer.<br>
