@@ -11,28 +11,28 @@
 </div>
 <br>
 - I'm a beginner/intermidiate developer.<br>
-- currently studying computer engineering in high school.<br>
-- i design PCBs.<br>
+- Currently studying computer engineering in high school.<br>
+- I design PCBs.<br>
 
 
 
-### projects I'm working on
+### Projects I'm working on
 
 * **W-sense**
   - ESP32-C3 based soil moisture sensor.
   - sources: [github](https://github.com/DaniloAny/w-sense)
 
-### what i know and use.
+### What i know and use.
 <div align="center">
 
 <p>
-  <strong>programming languages i know:</strong><br><br>
+  <strong>Programming languages i know:</strong><br><br>
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" src="https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white"> 
 </p>
 
 <p>
-  <strong>programming tools:</strong><br><br>
+  <strong>Programming tools:</strong><br><br>
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff">
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff">
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
@@ -41,9 +41,31 @@
   <strong>CAD and 3D printing tools:</strong><br><br>
   <img href="https://en.wikipedia.org/wiki/C_(programming_language)" src="https://img.shields.io/badge/FreeCAD-418FDE?logo=freecad&logoColor=fff">
 </p>
-
-
 </div>
-My cat:
 
-<img src="assets/IMG-1065a0563ac7805a413dbc1adb75dc2f-V.jpg" height=200>
+### My devices
+
+* Artemis (Desktop PC)
+    * CPU: AMD ryzen 5 5600x
+    * GPU: AMD RX 7600 GAMING OC 8G
+    * RAM: kingston fury 16gb ram kit
+    * SSD: silicon power a60 1TB m.2
+    * OS: NixOS (unstable)
+      
+<!-- * Apollo (Laptop)
+    * Model: Thinkpad T480
+    * CPU: i7-8550U
+    * GPU: intel integrated graphics 620 and Nvidia MX150 2GB
+    * RAM: 8GB 2666Mz
+    * SSD: 256GB m.2
+    * UPGRADES: (none for now) -->
+   
+
+<p>
+  <br>
+  <strong>cat corner</strong>
+  <br>
+  <img src="assets/IMG-1065a0563ac7805a413dbc1adb75dc2f-V.jpg" height=200>
+  <img src="assets/ff15e17a-ac5c-435a-ae8f-f1dd35c7b58f.jpg" height=200>
+</p>
+
