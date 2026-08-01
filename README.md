@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://tenor.com/view/ellen-joe-zenless-zone-zero-zzz-gif-10093268188702944990" alt="ellen moe" width="200px"/>
+<img src="assets/ellen-moe.gif" alt="ellen moe" width="200px"/>
 
 <br>
 - I'm a beginner/intermidiate developer.<br>
