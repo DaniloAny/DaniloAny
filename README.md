@@ -4,8 +4,8 @@
 **Developer | I can solder | CAD designer**
 
 <p>
-  <a href="https://github.com/DaniloAny"><img src="https://komarev.com/ghpvc/?username=DaniloAny&color=4c566a&style=for-the-badge" alt="Profile Views"/></a>
-  <a href="https://github.com/DaniloAny?tab=followers"><img src="https://img.shields.io/github/followers/DaniloAny?style=for-the-badge&color=4c566a&logo=github" alt="GitHub Followers"/></a>
+  <a href="https://github.com/DaniloAny"><img src="https://komarev.com/ghpvc/?username=DaniloAny&color=808000" alt="Profile Views"/></a>
+  <a href="https://github.com/DaniloAny?tab=followers"><img src="https://img.shields.io/github/followers/DaniloAny?style=flat&color=808000&logo=github" alt="GitHub Followers"/></a>
 </p>
 
 </div>
