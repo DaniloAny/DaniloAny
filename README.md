@@ -46,4 +46,4 @@
 </div>
 My cat:
 
-
+<img src="assets/IMG-1065a0563ac7805a413dbc1adb75dc2f-V.jpg" height=200>
